@@ -1,19 +1,11 @@
 {
   "version": "0.1.6",
   "notes": "update theme",
-  "pub_date": "",
+  "pub_date": "29/10/2024UTC::08::27",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "windows-x86_64": {
       "signature": "",
-      "url": ""
-    },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
+      "url": "https://update-app-ten.vercel.app/0.1.6/emis_tauri.exe"
     }
   }
 }
