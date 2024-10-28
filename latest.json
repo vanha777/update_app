@@ -4,7 +4,7 @@
   "pub_date": "2024-10-29T12:34:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "",
+      "signature": "https://update-app-ten.vercel.app/0.1.6/emis_tauri.exe.sig",
       "url": "https://update-app-ten.vercel.app/0.1.6/emis_tauri.exe"
     }
   }
