@@ -4,8 +4,8 @@
   "pub_date": "2024-10-29T12:34:56Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaFFIdk4rYitETi9Wa1Z3L0JtMWQ2K1IyR3dSdkl6Yk9HbTVZWU9mRXNRRjZkZWFiRjdFeHNMd0ZFWmpGbG5OUkdoWDBXM0Q0M0hxKzNMNy9RUVdnOFdTbnlmVXZyeUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMTU4Nzg1CWZpbGU6ZW1pc190YXVyaV8wLjEuNl94NjQtc2V0dXAuZXhlClFLNVFZMDBESW5UN01nbUFGMXZPMUFJVWNpbTIyQ2FlcHZnczYvTk9hU1B2QXdBY3lZT0NFZDVFNnJxc3NiRXV6NEdFa1lMYzJaTDZhSmx0MGNVQ0FnPT0K",
-      "url": "https://update-app-ten.vercel.app/0.1.6/emis_tauri_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaFFIdk4rYitETnlCQm5RK1lqL1VlMG1waXlUeTNyOXhxZVpXNkszZHVQWklCRnhxOWx4b21XUWttSm8yaTdXMnFvcFI5aVlWeHVJUHFkRUZUeGo3K0tPdTRmaGhDZEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMwMTYzODkyCWZpbGU6ZW1pc190YXVyaV8wLjEuMl94NjQtc2V0dXAuZXhlCnV6M3EzeFF3K09kVkRRNTZXYVhsMUhoTmNhYTVEMmJlcXduSUp5SkFKeE9zTEs5T2poc0tzc256a21LcG9RQXVUemQ2dXFrMnlWZU9zYkdjMUFJSUNRPT0K",
+      "url": "https://update-app-ten.vercel.app/0.1.2/emis_tauri_0.1.2_x64-setup.exe"
     }
   }
 }
